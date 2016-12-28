@@ -1,4 +1,4 @@
-spring default profile is default
+spring default profile is "default"
 
 so you can view the properties file defined in config repo https://github.com/ballaa2/config-repo
 
