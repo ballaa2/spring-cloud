@@ -3,3 +3,11 @@ connect to Spring Data repositories – all using HAL as the driving hypermedia 
 
 It takes away a lot of the manual work usually associated with such tasks and makes implementing basic CRUD functionality 
 for web applications quite simple.
+
+maven dependancy
+<dependency>
+    <groupId>org.springframework.boot</groupId
+    <artifactId>spring-boot-starter-data-rest</artifactId></dependency>
+<dependency>
+
+
