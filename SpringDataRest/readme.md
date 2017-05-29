@@ -7,7 +7,8 @@ for web applications quite simple.
 maven dependancy
 <dependency>
     <groupId>org.springframework.boot</groupId
-    <artifactId>spring-boot-starter-data-rest</artifactId></dependency>
-<dependency>
+     <artifactId>spring-boot-starter-data-rest</artifactId>
+ </dependency>
+
 
 
